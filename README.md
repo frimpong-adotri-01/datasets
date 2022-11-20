@@ -10,4 +10,4 @@ This repository contains a lot of datasets for personal data science projects.
 * **iris_dataset.csv** : It's a CSV file that contains for 150 iris flower observations, sepal and petal dimensions.
 * **ny-trips-data.csv** : It's a CSV file that contains New York taxi travel data like number of passengers, total mount, pickup datetime, dropoff datetime,...
 * **prostate dataset.txt** : It's a Text File that contains many men features for detecting prostate cancer.
-* **uber-raw-data-apr14.csv** : It's a CSV file that contains April 2014 Uber cars data.
+* **uber-raw-data-apr14.csv** : It's a CSV file that contains April 2014 New York Uber cars data.
